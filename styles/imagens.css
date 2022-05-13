@@ -67,12 +67,22 @@ a {
   width: 269px;
   height: 91px;
 }
+.logo-home-two {
+  position: absolute;
+  width: 533px;
+  height: 744px;
+  left: 260px;
+  top: 119px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .logo-home {
   position: absolute;
-  width: 598px;
+  width: 533px;
   height: 744px;
-  left: 718px;
+  left: 1297px;
   top: 119px;
   background-position: center;
   background-size: cover;
